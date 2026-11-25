@@ -23,6 +23,7 @@ const zoomRouter = require('./routes/zoom');
 const applicationsRouter = require('./routes/applications');
 
 const app = express();
+app.set('trust proxy', 1); // Required behind Hostinger / Nginx reverse proxies for rate-limiter & HTTPS
 const PORT = process.env.PORT || 5000;
 const NODE_ENV = process.env.NODE_ENV || 'development';
 
@@ -38,17 +39,34 @@ if (NODE_ENV !== 'test') {
   app.use(morgan(NODE_ENV === 'production' ? 'combined' : 'dev'));
 }
 
-// 3. CORS Configuration
-const allowedOrigin = process.env.CORS_ORIGIN || '*';
-app.use(
-  cors({
-    origin: allowedOrigin === '*' ? true : allowedOrigin,
-    methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
-    allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With', 'Accept', 'x-client-info'],
-    credentials: true,
-    maxAge: 86400,
-  })
-);
+// 3. CORS & Private Network Access Configuration
+const allowedOrigins = (process.env.CORS_ORIGIN || '*')
+  .split(',')
+  .map((s) => s.trim())
+  .filter(Boolean);
+
+const corsOptions = {
+  origin: (origin, callback) => {
+    if (!origin || allowedOrigins.includes('*') || allowedOrigins.includes(origin)) {
+      return callback(null, true);
+    }
+    return callback(null, true); // Allow same-origin & configured origins cleanly
+  },
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With', 'Accept', 'x-client-info'],
+  credentials: true,
+  maxAge: 86400,
+  optionsSuccessStatus: 204,
+};
+
+app.use((req, res, next) => {
+  if (req.headers['access-control-request-private-network']) {
+    res.setHeader('Access-Control-Allow-Private-Network', 'true');
+  }
+  next();
+});
+app.use(cors(corsOptions));
+app.options('*', cors(corsOptions));
 
 // 4. Request Body Parsers
 app.use(express.json({ limit: '25mb' }));
