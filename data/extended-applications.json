@@ -1,0 +1,102 @@
+{
+  "app-426ce8d7-fbd3-4735-88f6-fd97da45b60c": {
+    "userId": "426ce8d7-fbd3-4735-88f6-fd97da45b60c",
+    "name": "sid",
+    "email": "techshadab04@gmail.com",
+    "phone": "+91 98765 43210",
+    "phoneCountryCode": "+91",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "currency": "₹",
+    "currencyCode": "INR",
+    "headline": "sdvsdv",
+    "category": "Life Coach",
+    "specialties": [
+      "Personal Growth",
+      "Strategy",
+      "Goal Setting",
+      "Self-Esteem"
+    ],
+    "experienceYears": 1,
+    "startingPrice": 1650,
+    "location": "India",
+    "timeZone": "IST (UTC+5:30)",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "linkedinUrl": "",
+    "websiteUrl": "",
+    "targetAudience": "",
+    "bio": "sdvsd",
+    "coachingPhilosophy": "sdvsd",
+    "photoUrl": "https://srjfkjxnpyslfwseybic.supabase.co/storage/v1/object/public/coach-assets/avatars/1795601511737-original-6ce5f371c9e35ee44a165",
+    "audioIntroUrl": "https://srjfkjxnpyslfwseybic.supabase.co/storage/v1/object/public/coach-assets/audio/1795601546055-universfield-ringtone-052-4949",
+    "videoIntroUrl": "https://srjfkjxnpyslfwseybic.supabase.co/storage/v1/object/public/coach-assets/videos/1795601560974-Gold_Sunlight_Water_Motivation",
+    "degreeName": "hbjhjh",
+    "university": "vasv",
+    "graduationYear": "avs",
+    "educationList": [
+      {
+        "degree": "hbjhjh",
+        "institution": "vasv",
+        "fieldOfStudy": "asv",
+        "year": "avs",
+        "grade": "asv"
+      }
+    ],
+    "certifications": "asasvas",
+    "certificateFileName": "",
+    "certificationsList": [
+      {
+        "name": "asasvas",
+        "issuingOrg": "asvsvav",
+        "year": "2020",
+        "credentialId": "asas",
+        "certificateUrl": "",
+        "certificateFileName": ""
+      }
+    ],
+    "awardsList": [
+      {
+        "title": "",
+        "issuer": "",
+        "year": "",
+        "description": ""
+      }
+    ],
+    "awards": [],
+    "packages": [
+      {
+        "id": "srv-426ce8d7-fbd3-4735-88f6-fd97da45b60c-1",
+        "title": "1:1 Discovery & Strategy Session",
+        "duration": "45 mins",
+        "price": 1650,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Personalized strategy session to map goals and establish an actionable transformation plan.",
+        "inclusions": [
+          "45-min Zoom video consult",
+          "Action plan summary",
+          "Direct chat access"
+        ]
+      }
+    ],
+    "sessionDuration": "45 mins",
+    "packageTitle": "1:1 Discovery & Strategy Session",
+    "availableDays": [
+      "Mon",
+      "Wed",
+      "Fri"
+    ],
+    "availableTimes": [
+      "10:00 AM",
+      "03:00 PM"
+    ],
+    "id": "app-426ce8d7-fbd3-4735-88f6-fd97da45b60c",
+    "submittedAt": "Just now",
+    "status": "approved"
+  }
+}

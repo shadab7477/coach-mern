@@ -1,0 +1,1634 @@
+{
+  "dr-neha-sharma": {
+    "id": "coach-persist-1795597074365",
+    "userId": null,
+    "slug": "dr-neha-sharma-74365-056",
+    "name": "Dr. Neha Sharma",
+    "headline": "Persistence Verification Coach",
+    "primaryCategory": "Life Coach",
+    "specialties": [
+      "Personal Growth",
+      "Strategy"
+    ],
+    "experienceYears": 1,
+    "rating": 5,
+    "reviewCount": 0,
+    "reviews": [],
+    "startingPrice": 2500,
+    "offlinePrice": 4000,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "",
+    "city": "",
+    "phone": "",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "India",
+    "deliveryModes": [
+      "Online"
+    ],
+    "languages": [
+      "English"
+    ],
+    "location": "India",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": false,
+    "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+    "coverUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "https://cdn.test/voice.mp3",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "https://cdn.test/video.mp4",
+    "videoDurationSeconds": 0,
+    "about": "Persistence Verification Coach",
+    "coachingPhilosophy": "Dedicated to empowering clients with actionable transformation and structured accountability.",
+    "targetAudience": "Ambitious professionals and individuals seeking structured guidance.",
+    "education": [
+      "PhD Psychology - Delhi Univ (2018)"
+    ],
+    "educationList": [
+      {
+        "degree": "PhD Psychology",
+        "institution": "Delhi Univ",
+        "year": "2018"
+      }
+    ],
+    "certifications": [
+      "Verified CoachConnect Candidate"
+    ],
+    "certificationsList": [],
+    "awards": [],
+    "awardsList": [],
+    "services": [
+      {
+        "id": "srv-coach-persist-1795597074365-1",
+        "title": "1:1 Discovery Breakthrough Call",
+        "duration": "45 mins",
+        "price": 2500,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Personalized strategy session to map transformation goals, unblock obstacles, and establish an actionable transformation blueprint.",
+        "inclusions": [
+          "45-minute 1:1 Zoom video session",
+          "Personalized action roadmap PDF",
+          "7-day direct follow-up chat access"
+        ],
+        "isPopular": true
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "02:00 PM",
+          "05:00 PM"
+        ]
+      },
+      {
+        "day": "Wed",
+        "times": [
+          "10:00 AM",
+          "02:00 PM",
+          "05:00 PM"
+        ]
+      },
+      {
+        "day": "Fri",
+        "times": [
+          "10:00 AM",
+          "02:00 PM",
+          "05:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  "coach-4": {
+    "id": "coach-4",
+    "slug": "vikram-singh",
+    "name": "Vikram Singh",
+    "headline": "Senior Tech & Leadership Career Transition Coach",
+    "primaryCategory": "Career Coach",
+    "specialties": [
+      "Executive Job Search",
+      "Interview Mastery",
+      "Salary Negotiation",
+      "Career Pivot"
+    ],
+    "experienceYears": 10,
+    "rating": 5,
+    "reviewCount": 1,
+    "startingPrice": 1800,
+    "offlinePrice": 2700,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "",
+    "city": "",
+    "phone": "",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "Hyderabad, India",
+    "deliveryModes": [
+      "Online",
+      "Offline"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "location": "Hyderabad, India",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": true,
+    "photoUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80",
+    "coverUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "",
+    "videoDurationSeconds": 0,
+    "about": "Former Talent Director at top global tech firms. I have reviewed over 25,000 resumes and negotiated compensation packages from mid-level engineers to VP-level executives.",
+    "coachingPhilosophy": "Your career is your largest financial asset. Stop treating job searching as a lottery; treat it as an executive marketing campaign where you are the enterprise solution.",
+    "targetAudience": "Individuals seeking transformation and structured guidance.",
+    "education": [
+      "Certified Practitioner"
+    ],
+    "educationList": [],
+    "certifications": [
+      "Accredited Coach"
+    ],
+    "certificationsList": [],
+    "awards": [],
+    "awardsList": [],
+    "services": [
+      {
+        "id": "srv-coach-4-1",
+        "title": "1:1 Discovery & Strategy Session",
+        "duration": "45 mins",
+        "price": 1800,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Deep dive into your personal goals, obstacles, and breakthrough roadmap.",
+        "inclusions": [
+          "45-minute video call",
+          "Action plan document",
+          "Follow-up notes"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Wed",
+        "times": [
+          "11:00 AM",
+          "04:00 PM"
+        ]
+      },
+      {
+        "day": "Fri",
+        "times": [
+          "02:00 PM",
+          "06:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    },
+    "reviews": [
+      {
+        "id": "rev-1795597111493",
+        "clientName": "Samir Verma",
+        "clientAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=Samir%20Verma",
+        "rating": 5,
+        "date": "Today",
+        "sessionType": "1:1 Coaching Strategy Session",
+        "comment": "Exceptional coaching framework! Cleared my mental blocks in 2 sessions."
+      }
+    ]
+  },
+  "vikram-singh": {
+    "id": "coach-4",
+    "slug": "vikram-singh",
+    "name": "Vikram Singh",
+    "headline": "Senior Tech & Leadership Career Transition Coach",
+    "primaryCategory": "Career Coach",
+    "specialties": [
+      "Executive Job Search",
+      "Interview Mastery",
+      "Salary Negotiation",
+      "Career Pivot"
+    ],
+    "experienceYears": 10,
+    "rating": 5,
+    "reviewCount": 1,
+    "startingPrice": 1800,
+    "offlinePrice": 2700,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "",
+    "city": "",
+    "phone": "",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "Hyderabad, India",
+    "deliveryModes": [
+      "Online",
+      "Offline"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "location": "Hyderabad, India",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": true,
+    "photoUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80",
+    "coverUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "",
+    "videoDurationSeconds": 0,
+    "about": "Former Talent Director at top global tech firms. I have reviewed over 25,000 resumes and negotiated compensation packages from mid-level engineers to VP-level executives.",
+    "coachingPhilosophy": "Your career is your largest financial asset. Stop treating job searching as a lottery; treat it as an executive marketing campaign where you are the enterprise solution.",
+    "targetAudience": "Individuals seeking transformation and structured guidance.",
+    "education": [
+      "Certified Practitioner"
+    ],
+    "educationList": [],
+    "certifications": [
+      "Accredited Coach"
+    ],
+    "certificationsList": [],
+    "awards": [],
+    "awardsList": [],
+    "services": [
+      {
+        "id": "srv-coach-4-1",
+        "title": "1:1 Discovery & Strategy Session",
+        "duration": "45 mins",
+        "price": 1800,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Deep dive into your personal goals, obstacles, and breakthrough roadmap.",
+        "inclusions": [
+          "45-minute video call",
+          "Action plan document",
+          "Follow-up notes"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Wed",
+        "times": [
+          "11:00 AM",
+          "04:00 PM"
+        ]
+      },
+      {
+        "day": "Fri",
+        "times": [
+          "02:00 PM",
+          "06:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    },
+    "reviews": [
+      {
+        "id": "rev-1795597111493",
+        "clientName": "Samir Verma",
+        "clientAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=Samir%20Verma",
+        "rating": 5,
+        "date": "Today",
+        "sessionType": "1:1 Coaching Strategy Session",
+        "comment": "Exceptional coaching framework! Cleared my mental blocks in 2 sessions."
+      }
+    ]
+  },
+  "coach-bawa": {
+    "id": "coach-bawa",
+    "slug": "bawa",
+    "name": "Bawa",
+    "headline": "Certified Professional Coach",
+    "primaryCategory": "Life Coach",
+    "specialties": [
+      "Personal Growth",
+      "Strategy"
+    ],
+    "experienceYears": 5,
+    "rating": 5,
+    "reviewCount": 2,
+    "startingPrice": 1500,
+    "offlinePrice": 2250,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "",
+    "city": "",
+    "phone": "",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "India",
+    "deliveryModes": [
+      "Online"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "location": "India",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": true,
+    "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "coverUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "",
+    "videoDurationSeconds": 0,
+    "about": "Dedicated coach helping clients reach their full potential.",
+    "coachingPhilosophy": "",
+    "targetAudience": "Individuals seeking transformation and structured guidance.",
+    "education": [
+      "Certified Practitioner"
+    ],
+    "educationList": [],
+    "certifications": [
+      "Accredited Coach"
+    ],
+    "certificationsList": [],
+    "awards": [],
+    "awardsList": [],
+    "services": [
+      {
+        "id": "srv-coach-bawa-1",
+        "title": "1:1 Discovery & Strategy Session",
+        "duration": "45 mins",
+        "price": 1500,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Deep dive into your personal goals, obstacles, and breakthrough roadmap.",
+        "inclusions": [
+          "45-minute video call",
+          "Action plan document",
+          "Follow-up notes"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Wed",
+        "times": [
+          "11:00 AM",
+          "04:00 PM"
+        ]
+      },
+      {
+        "day": "Fri",
+        "times": [
+          "02:00 PM",
+          "06:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    },
+    "ebooks": [
+      {
+        "id": "eb-1795602532741",
+        "coachId": "coach-bawa",
+        "coachName": "Bawa",
+        "coachPhoto": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+        "title": "The High-Performance Leadership Blueprint",
+        "subtitle": "Strategies for Modern Executives",
+        "description": "",
+        "price": 499,
+        "currency": "₹",
+        "coverImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+        "pdfUrl": "https://example.com/books/leadership-blueprint.pdf",
+        "pdfFileName": "The_High_Performance_Leadership_Blueprint.pdf",
+        "pdfFileSize": "2.4 MB",
+        "pageCount": 25,
+        "category": "Executive Coaching",
+        "topics": [],
+        "downloadsCount": 0,
+        "rating": 5,
+        "isPublished": true,
+        "createdAt": "2026-11-25T10:28:52.741Z"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "rev-1795602532937",
+        "clientName": "Samir Verma",
+        "clientAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=Samir%20Verma",
+        "rating": 5,
+        "date": "Today",
+        "sessionType": "1:1 Coaching Strategy Session",
+        "comment": "Exceptional coaching framework! Cleared my mental blocks in 2 sessions."
+      },
+      {
+        "id": "rev-1795597864218",
+        "clientName": "Samir Verma",
+        "clientAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=Samir%20Verma",
+        "rating": 5,
+        "date": "Today",
+        "sessionType": "1:1 Coaching Strategy Session",
+        "comment": "Exceptional coaching framework! Cleared my mental blocks in 2 sessions."
+      }
+    ]
+  },
+  "bawa": {
+    "id": "coach-bawa",
+    "slug": "bawa",
+    "name": "Bawa",
+    "headline": "Certified Professional Coach",
+    "primaryCategory": "Life Coach",
+    "specialties": [
+      "Personal Growth",
+      "Strategy"
+    ],
+    "experienceYears": 5,
+    "rating": 5,
+    "reviewCount": 2,
+    "startingPrice": 1500,
+    "offlinePrice": 2250,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "",
+    "city": "",
+    "phone": "",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "India",
+    "deliveryModes": [
+      "Online"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "location": "India",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": true,
+    "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "coverUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "",
+    "videoDurationSeconds": 0,
+    "about": "Dedicated coach helping clients reach their full potential.",
+    "coachingPhilosophy": "",
+    "targetAudience": "Individuals seeking transformation and structured guidance.",
+    "education": [
+      "Certified Practitioner"
+    ],
+    "educationList": [],
+    "certifications": [
+      "Accredited Coach"
+    ],
+    "certificationsList": [],
+    "awards": [],
+    "awardsList": [],
+    "services": [
+      {
+        "id": "srv-coach-bawa-1",
+        "title": "1:1 Discovery & Strategy Session",
+        "duration": "45 mins",
+        "price": 1500,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Deep dive into your personal goals, obstacles, and breakthrough roadmap.",
+        "inclusions": [
+          "45-minute video call",
+          "Action plan document",
+          "Follow-up notes"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Wed",
+        "times": [
+          "11:00 AM",
+          "04:00 PM"
+        ]
+      },
+      {
+        "day": "Fri",
+        "times": [
+          "02:00 PM",
+          "06:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    },
+    "ebooks": [
+      {
+        "id": "eb-1795602532741",
+        "coachId": "coach-bawa",
+        "coachName": "Bawa",
+        "coachPhoto": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+        "title": "The High-Performance Leadership Blueprint",
+        "subtitle": "Strategies for Modern Executives",
+        "description": "",
+        "price": 499,
+        "currency": "₹",
+        "coverImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+        "pdfUrl": "https://example.com/books/leadership-blueprint.pdf",
+        "pdfFileName": "The_High_Performance_Leadership_Blueprint.pdf",
+        "pdfFileSize": "2.4 MB",
+        "pageCount": 25,
+        "category": "Executive Coaching",
+        "topics": [],
+        "downloadsCount": 0,
+        "rating": 5,
+        "isPublished": true,
+        "createdAt": "2026-11-25T10:28:52.741Z"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "rev-1795602532937",
+        "clientName": "Samir Verma",
+        "clientAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=Samir%20Verma",
+        "rating": 5,
+        "date": "Today",
+        "sessionType": "1:1 Coaching Strategy Session",
+        "comment": "Exceptional coaching framework! Cleared my mental blocks in 2 sessions."
+      },
+      {
+        "id": "rev-1795597864218",
+        "clientName": "Samir Verma",
+        "clientAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=Samir%20Verma",
+        "rating": 5,
+        "date": "Today",
+        "sessionType": "1:1 Coaching Strategy Session",
+        "comment": "Exceptional coaching framework! Cleared my mental blocks in 2 sessions."
+      }
+    ]
+  },
+  "coach-426ce8d7-fbd3-4735-88f6-fd97da45b60c": {
+    "id": "coach-426ce8d7-fbd3-4735-88f6-fd97da45b60c",
+    "userId": "426ce8d7-fbd3-4735-88f6-fd97da45b60c",
+    "slug": "sid",
+    "name": "sid",
+    "headline": "sdvsdv",
+    "primaryCategory": "Life Coach",
+    "specialties": [
+      "Personal Growth",
+      "Strategy",
+      "Goal Setting",
+      "Self-Esteem"
+    ],
+    "experienceYears": 1,
+    "rating": 5,
+    "reviewCount": 0,
+    "reviews": [],
+    "startingPrice": 1650,
+    "offlinePrice": 1650,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "phone": "+91 98765 43210",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "India",
+    "deliveryModes": [
+      "Online"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "location": "India",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": false,
+    "photoUrl": "https://srjfkjxnpyslfwseybic.supabase.co/storage/v1/object/public/coach-assets/avatars/1795601511737-original-6ce5f371c9e35ee44a165",
+    "coverUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "https://srjfkjxnpyslfwseybic.supabase.co/storage/v1/object/public/coach-assets/audio/1795601546055-universfield-ringtone-052-4949",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "https://srjfkjxnpyslfwseybic.supabase.co/storage/v1/object/public/coach-assets/videos/1795601560974-Gold_Sunlight_Water_Motivation",
+    "videoDurationSeconds": 0,
+    "about": "sdvsd",
+    "coachingPhilosophy": "sdvsd",
+    "targetAudience": "Ambitious professionals and individuals seeking structured guidance.",
+    "education": [
+      "hbjhjh in asv - vasv (avs)"
+    ],
+    "educationList": [
+      {
+        "degree": "hbjhjh",
+        "institution": "vasv",
+        "fieldOfStudy": "asv",
+        "year": "avs",
+        "grade": "asv"
+      }
+    ],
+    "certifications": [
+      "asasvas - asvsvav (2020)"
+    ],
+    "certificationsList": [
+      {
+        "name": "asasvas",
+        "issuingOrg": "asvsvav",
+        "year": "2020",
+        "credentialId": "asas",
+        "certificateUrl": "",
+        "certificateFileName": ""
+      }
+    ],
+    "awards": [
+      " - "
+    ],
+    "awardsList": [
+      {
+        "title": "",
+        "issuer": "",
+        "year": "",
+        "description": ""
+      }
+    ],
+    "services": [
+      {
+        "id": "srv-426ce8d7-fbd3-4735-88f6-fd97da45b60c-1",
+        "title": "1:1 Discovery & Strategy Session",
+        "duration": "45 mins",
+        "price": 1650,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Personalized strategy session to map goals and establish an actionable transformation plan.",
+        "inclusions": [
+          "45-min Zoom video consult",
+          "Action plan summary",
+          "Direct chat access"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Wed",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Fri",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  "sid": {
+    "id": "coach-426ce8d7-fbd3-4735-88f6-fd97da45b60c",
+    "userId": "426ce8d7-fbd3-4735-88f6-fd97da45b60c",
+    "slug": "sid",
+    "name": "sid",
+    "headline": "sdvsdv",
+    "primaryCategory": "Life Coach",
+    "specialties": [
+      "Personal Growth",
+      "Strategy",
+      "Goal Setting",
+      "Self-Esteem"
+    ],
+    "experienceYears": 1,
+    "rating": 5,
+    "reviewCount": 0,
+    "reviews": [],
+    "startingPrice": 1650,
+    "offlinePrice": 1650,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "phone": "+91 98765 43210",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "India",
+    "deliveryModes": [
+      "Online"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "location": "India",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": false,
+    "photoUrl": "https://srjfkjxnpyslfwseybic.supabase.co/storage/v1/object/public/coach-assets/avatars/1795601511737-original-6ce5f371c9e35ee44a165",
+    "coverUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "https://srjfkjxnpyslfwseybic.supabase.co/storage/v1/object/public/coach-assets/audio/1795601546055-universfield-ringtone-052-4949",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "https://srjfkjxnpyslfwseybic.supabase.co/storage/v1/object/public/coach-assets/videos/1795601560974-Gold_Sunlight_Water_Motivation",
+    "videoDurationSeconds": 0,
+    "about": "sdvsd",
+    "coachingPhilosophy": "sdvsd",
+    "targetAudience": "Ambitious professionals and individuals seeking structured guidance.",
+    "education": [
+      "hbjhjh in asv - vasv (avs)"
+    ],
+    "educationList": [
+      {
+        "degree": "hbjhjh",
+        "institution": "vasv",
+        "fieldOfStudy": "asv",
+        "year": "avs",
+        "grade": "asv"
+      }
+    ],
+    "certifications": [
+      "asasvas - asvsvav (2020)"
+    ],
+    "certificationsList": [
+      {
+        "name": "asasvas",
+        "issuingOrg": "asvsvav",
+        "year": "2020",
+        "credentialId": "asas",
+        "certificateUrl": "",
+        "certificateFileName": ""
+      }
+    ],
+    "awards": [
+      " - "
+    ],
+    "awardsList": [
+      {
+        "title": "",
+        "issuer": "",
+        "year": "",
+        "description": ""
+      }
+    ],
+    "services": [
+      {
+        "id": "srv-426ce8d7-fbd3-4735-88f6-fd97da45b60c-1",
+        "title": "1:1 Discovery & Strategy Session",
+        "duration": "45 mins",
+        "price": 1650,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Personalized strategy session to map goals and establish an actionable transformation plan.",
+        "inclusions": [
+          "45-min Zoom video consult",
+          "Action plan summary",
+          "Direct chat access"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Wed",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Fri",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  "coach-app-coach-cafae287-e986-4e89-9e73-2f421c1a0424": {
+    "id": "coach-app-coach-cafae287-e986-4e89-9e73-2f421c1a0424",
+    "userId": "cafae287-e986-4e89-9e73-2f421c1a0424",
+    "slug": "gajendra-a0424-303",
+    "name": "gajendra",
+    "headline": "yes boss",
+    "primaryCategory": "Life Coach",
+    "specialties": [
+      "Personal Growth",
+      "Goal Setting",
+      "Self-Esteem"
+    ],
+    "experienceYears": 1,
+    "rating": 5,
+    "reviewCount": 0,
+    "reviews": [],
+    "startingPrice": 1500,
+    "offlinePrice": 1500,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "",
+    "city": "",
+    "phone": "",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "Indore",
+    "deliveryModes": [
+      "Online"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "location": "Indore",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": false,
+    "photoUrl": "https://srjfkjxnpyslfwseybic.supabase.co/storage/v1/object/public/coach-assets/avatars/ff6ef6a5-b1f5-480c-98c2-da2c3b594af2.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "",
+    "videoDurationSeconds": 0,
+    "about": "Welcome to my coaching profile! I am gajendra, currently completing my official credentials and service offerings.",
+    "coachingPhilosophy": "Client-centered, empathetic, and transformational growth.",
+    "targetAudience": "Individuals seeking transformation and structured guidance.",
+    "education": [
+      "Certified Practitioner"
+    ],
+    "educationList": [],
+    "certifications": [
+      "Accredited Coach"
+    ],
+    "certificationsList": [],
+    "awards": [],
+    "awardsList": [],
+    "services": [
+      {
+        "id": "srv-1795601845111-1",
+        "title": "1:1 Discovery & Strategy Call",
+        "duration": "45 mins",
+        "price": 1500,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Personalized strategy session to map goals and establish an action plan.",
+        "inclusions": [
+          "45-min Zoom call",
+          "Action plan summary",
+          "Goal scorecard"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Thu",
+        "times": [
+          "11:00 AM",
+          "04:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  "gajendra": {
+    "id": "coach-app-coach-cafae287-e986-4e89-9e73-2f421c1a0424",
+    "userId": "cafae287-e986-4e89-9e73-2f421c1a0424",
+    "slug": "gajendra-a0424-303",
+    "name": "gajendra",
+    "headline": "yes boss",
+    "primaryCategory": "Life Coach",
+    "specialties": [
+      "Personal Growth",
+      "Goal Setting",
+      "Self-Esteem"
+    ],
+    "experienceYears": 1,
+    "rating": 5,
+    "reviewCount": 0,
+    "reviews": [],
+    "startingPrice": 1500,
+    "offlinePrice": 1500,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "",
+    "city": "",
+    "phone": "",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "Indore",
+    "deliveryModes": [
+      "Online"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "location": "Indore",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": false,
+    "photoUrl": "https://srjfkjxnpyslfwseybic.supabase.co/storage/v1/object/public/coach-assets/avatars/ff6ef6a5-b1f5-480c-98c2-da2c3b594af2.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "",
+    "videoDurationSeconds": 0,
+    "about": "Welcome to my coaching profile! I am gajendra, currently completing my official credentials and service offerings.",
+    "coachingPhilosophy": "Client-centered, empathetic, and transformational growth.",
+    "targetAudience": "Individuals seeking transformation and structured guidance.",
+    "education": [
+      "Certified Practitioner"
+    ],
+    "educationList": [],
+    "certifications": [
+      "Accredited Coach"
+    ],
+    "certificationsList": [],
+    "awards": [],
+    "awardsList": [],
+    "services": [
+      {
+        "id": "srv-1795601845111-1",
+        "title": "1:1 Discovery & Strategy Call",
+        "duration": "45 mins",
+        "price": 1500,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Personalized strategy session to map goals and establish an action plan.",
+        "inclusions": [
+          "45-min Zoom call",
+          "Action plan summary",
+          "Goal scorecard"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Thu",
+        "times": [
+          "11:00 AM",
+          "04:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  "coach-app-coach-user__916263352496": {
+    "id": "coach-app-coach-user__916263352496",
+    "userId": "coach-user__916263352496",
+    "slug": "shree-ram-52496-559",
+    "name": "Shree Ram",
+    "headline": "Only shree ram",
+    "primaryCategory": "Life Coach",
+    "specialties": [
+      "Bhakti bhajan"
+    ],
+    "experienceYears": 3,
+    "rating": 5,
+    "reviewCount": 0,
+    "reviews": [],
+    "startingPrice": 6599,
+    "offlinePrice": 6599,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "",
+    "city": "",
+    "phone": "",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "Indore india",
+    "deliveryModes": [
+      "Online"
+    ],
+    "languages": [
+      "English"
+    ],
+    "location": "Indore india",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": false,
+    "photoUrl": "file:///data/user/0/com.coachvendor/cache/rn_image_picker_lib_temp_ffd64f22-9472-4614-8b7c-e3e0ab18f0f2.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "",
+    "videoDurationSeconds": 0,
+    "about": "Hare rama hare rama hare rama hare rama hare krishna hare rama hare krishna",
+    "coachingPhilosophy": "Hsh jsvsshs sjs bs sbs shvs hs s",
+    "targetAudience": "Individuals seeking transformation and structured guidance.",
+    "education": [
+      "Abcd"
+    ],
+    "educationList": [],
+    "certifications": [
+      "Abcd"
+    ],
+    "certificationsList": [],
+    "awards": [],
+    "awardsList": [],
+    "services": [
+      {
+        "id": "srv-1795601847350-1",
+        "title": "1:1 Discovery & Strategy Call",
+        "duration": "45 mins",
+        "price": 6599,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Personalized strategy session to map goals and establish an action plan.",
+        "inclusions": [
+          "45-min Zoom call",
+          "Action plan summary",
+          "Goal scorecard"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Thu",
+        "times": [
+          "11:00 AM",
+          "04:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  "shree-ram": {
+    "id": "coach-app-coach-user__916263352496",
+    "userId": "coach-user__916263352496",
+    "slug": "shree-ram-52496-559",
+    "name": "Shree Ram",
+    "headline": "Only shree ram",
+    "primaryCategory": "Life Coach",
+    "specialties": [
+      "Bhakti bhajan"
+    ],
+    "experienceYears": 3,
+    "rating": 5,
+    "reviewCount": 0,
+    "reviews": [],
+    "startingPrice": 6599,
+    "offlinePrice": 6599,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "",
+    "city": "",
+    "phone": "",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "Indore india",
+    "deliveryModes": [
+      "Online"
+    ],
+    "languages": [
+      "English"
+    ],
+    "location": "Indore india",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": false,
+    "photoUrl": "file:///data/user/0/com.coachvendor/cache/rn_image_picker_lib_temp_ffd64f22-9472-4614-8b7c-e3e0ab18f0f2.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "",
+    "videoDurationSeconds": 0,
+    "about": "Hare rama hare rama hare rama hare rama hare krishna hare rama hare krishna",
+    "coachingPhilosophy": "Hsh jsvsshs sjs bs sbs shvs hs s",
+    "targetAudience": "Individuals seeking transformation and structured guidance.",
+    "education": [
+      "Abcd"
+    ],
+    "educationList": [],
+    "certifications": [
+      "Abcd"
+    ],
+    "certificationsList": [],
+    "awards": [],
+    "awardsList": [],
+    "services": [
+      {
+        "id": "srv-1795601847350-1",
+        "title": "1:1 Discovery & Strategy Call",
+        "duration": "45 mins",
+        "price": 6599,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Personalized strategy session to map goals and establish an action plan.",
+        "inclusions": [
+          "45-min Zoom call",
+          "Action plan summary",
+          "Goal scorecard"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Thu",
+        "times": [
+          "11:00 AM",
+          "04:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  "coach-app-coach-1795165516029": {
+    "id": "coach-app-coach-1795165516029",
+    "userId": null,
+    "slug": "dr-aarti-sharma",
+    "name": "Dr. Aarti Sharma",
+    "headline": "Senior Leadership & Career Transformation Coach",
+    "primaryCategory": "Leadership",
+    "specialties": [
+      "Executive Presence",
+      "Team Management",
+      "C-Suite Advisory"
+    ],
+    "experienceYears": 8,
+    "rating": 5,
+    "reviewCount": 0,
+    "reviews": [],
+    "startingPrice": 3500,
+    "offlinePrice": 3500,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "",
+    "city": "",
+    "phone": "",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "Bangalore, India",
+    "deliveryModes": [
+      "Online"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "location": "Bangalore, India",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": false,
+    "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+    "coverUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "",
+    "videoDurationSeconds": 0,
+    "about": "Empowering next-generation corporate leaders through structured executive coaching.",
+    "coachingPhilosophy": "Clarity breeds confidence. We architect high-impact leadership roadmaps.",
+    "targetAudience": "Individuals seeking transformation and structured guidance.",
+    "education": [
+      "Ph.D. in Organizational Psychology"
+    ],
+    "educationList": [],
+    "certifications": [
+      "Master Certified Coach (MCC - ICF)"
+    ],
+    "certificationsList": [],
+    "awards": [],
+    "awardsList": [],
+    "services": [
+      {
+        "id": "srv-1795601850545-1",
+        "title": "1:1 Discovery & Strategy Call",
+        "duration": "45 mins",
+        "price": 3500,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Personalized strategy session to map goals and establish an action plan.",
+        "inclusions": [
+          "45-min Zoom call",
+          "Action plan summary",
+          "Goal scorecard"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Thu",
+        "times": [
+          "11:00 AM",
+          "04:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  "dr-aarti-sharma": {
+    "id": "coach-app-coach-1795165516029",
+    "userId": null,
+    "slug": "dr-aarti-sharma",
+    "name": "Dr. Aarti Sharma",
+    "headline": "Senior Leadership & Career Transformation Coach",
+    "primaryCategory": "Leadership",
+    "specialties": [
+      "Executive Presence",
+      "Team Management",
+      "C-Suite Advisory"
+    ],
+    "experienceYears": 8,
+    "rating": 5,
+    "reviewCount": 0,
+    "reviews": [],
+    "startingPrice": 3500,
+    "offlinePrice": 3500,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "",
+    "city": "",
+    "phone": "",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "Bangalore, India",
+    "deliveryModes": [
+      "Online"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "location": "Bangalore, India",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": false,
+    "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+    "coverUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "",
+    "videoDurationSeconds": 0,
+    "about": "Empowering next-generation corporate leaders through structured executive coaching.",
+    "coachingPhilosophy": "Clarity breeds confidence. We architect high-impact leadership roadmaps.",
+    "targetAudience": "Individuals seeking transformation and structured guidance.",
+    "education": [
+      "Ph.D. in Organizational Psychology"
+    ],
+    "educationList": [],
+    "certifications": [
+      "Master Certified Coach (MCC - ICF)"
+    ],
+    "certificationsList": [],
+    "awards": [],
+    "awardsList": [],
+    "services": [
+      {
+        "id": "srv-1795601850545-1",
+        "title": "1:1 Discovery & Strategy Call",
+        "duration": "45 mins",
+        "price": 3500,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Personalized strategy session to map goals and establish an action plan.",
+        "inclusions": [
+          "45-min Zoom call",
+          "Action plan summary",
+          "Goal scorecard"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Thu",
+        "times": [
+          "11:00 AM",
+          "04:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  "coach-app-verify-1": {
+    "id": "coach-app-verify-1",
+    "userId": null,
+    "slug": "pooja-verma",
+    "name": "Pooja Verma",
+    "headline": "Certified Executive & High Performance Mentor",
+    "primaryCategory": "Leadership & Executive",
+    "specialties": [
+      "C-Suite Strategy",
+      "Team Scaling"
+    ],
+    "experienceYears": 8,
+    "rating": 5,
+    "reviewCount": 0,
+    "reviews": [],
+    "startingPrice": 3000,
+    "offlinePrice": 3000,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "",
+    "city": "",
+    "phone": "",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "Delhi, India",
+    "deliveryModes": [
+      "Online"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "location": "Delhi, India",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": false,
+    "photoUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+    "coverUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "",
+    "videoDurationSeconds": 0,
+    "about": "Executive coach with 8+ years guiding tech leaders.",
+    "coachingPhilosophy": "Transforming clarity into organizational momentum.",
+    "targetAudience": "Individuals seeking transformation and structured guidance.",
+    "education": [
+      ""
+    ],
+    "educationList": [],
+    "certifications": [
+      ""
+    ],
+    "certificationsList": [],
+    "awards": [],
+    "awardsList": [],
+    "services": [
+      {
+        "id": "srv-1795601854668-1",
+        "title": "1:1 Discovery & Strategy Call",
+        "duration": "45 mins",
+        "price": 3000,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Personalized strategy session to map goals and establish an action plan.",
+        "inclusions": [
+          "45-min Zoom call",
+          "Action plan summary",
+          "Goal scorecard"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Thu",
+        "times": [
+          "11:00 AM",
+          "04:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  "pooja-verma": {
+    "id": "coach-app-verify-1",
+    "userId": null,
+    "slug": "pooja-verma",
+    "name": "Pooja Verma",
+    "headline": "Certified Executive & High Performance Mentor",
+    "primaryCategory": "Leadership & Executive",
+    "specialties": [
+      "C-Suite Strategy",
+      "Team Scaling"
+    ],
+    "experienceYears": 8,
+    "rating": 5,
+    "reviewCount": 0,
+    "reviews": [],
+    "startingPrice": 3000,
+    "offlinePrice": 3000,
+    "currency": "₹",
+    "currencyCode": "INR",
+    "country": "India",
+    "countryCode": "IN",
+    "state": "",
+    "city": "",
+    "phone": "",
+    "phoneCountryCode": "+91",
+    "meetingVenue": "",
+    "meetingLocation": "Delhi, India",
+    "deliveryModes": [
+      "Online"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "location": "Delhi, India",
+    "timeZone": "IST (UTC+5:30)",
+    "verified": true,
+    "featured": false,
+    "photoUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+    "coverUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "audioIntroUrl": "",
+    "audioDurationSeconds": 0,
+    "videoIntroUrl": "",
+    "videoDurationSeconds": 0,
+    "about": "Executive coach with 8+ years guiding tech leaders.",
+    "coachingPhilosophy": "Transforming clarity into organizational momentum.",
+    "targetAudience": "Individuals seeking transformation and structured guidance.",
+    "education": [
+      ""
+    ],
+    "educationList": [],
+    "certifications": [
+      ""
+    ],
+    "certificationsList": [],
+    "awards": [],
+    "awardsList": [],
+    "services": [
+      {
+        "id": "srv-1795601854668-1",
+        "title": "1:1 Discovery & Strategy Call",
+        "duration": "45 mins",
+        "price": 3000,
+        "currency": "₹",
+        "deliveryMode": "Online",
+        "description": "Personalized strategy session to map goals and establish an action plan.",
+        "inclusions": [
+          "45-min Zoom call",
+          "Action plan summary",
+          "Goal scorecard"
+        ]
+      }
+    ],
+    "availableSlots": [
+      {
+        "day": "Mon",
+        "times": [
+          "10:00 AM",
+          "03:00 PM"
+        ]
+      },
+      {
+        "day": "Thu",
+        "times": [
+          "11:00 AM",
+          "04:00 PM"
+        ]
+      }
+    ],
+    "socialLinks": {
+      "linkedin": "",
+      "website": ""
+    }
+  }
+}
