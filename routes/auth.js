@@ -1,5 +1,6 @@
 const express = require('express');
 const router = express.Router();
+const crypto = require('crypto');
 const { generateOtpCode, saveOtp, verifyOtp } = require('../lib/otpStore');
 const { sendOtpEmail } = require('../lib/mailer');
 const { signToken } = require('../lib/jwt');
@@ -7,7 +8,16 @@ const { authenticate } = require('../middlewares/auth');
 const { authLimiter } = require('../middlewares/rateLimiter');
 const { validateBody } = require('../middlewares/validate');
 const { asyncHandler } = require('../middlewares/error');
-const { fetchCoachesFromSupabase } = require('../lib/supabaseDb');
+const { fetchCoachesFromSupabase, upsertProfileToSupabase, fetchProfileByEmail } = require('../lib/supabaseDb');
+
+/**
+ * Derives a stable, deterministic user ID from an email address.
+ * Same email → always same ID. No randomness or timestamps used.
+ */
+function deriveUserId(email) {
+  const hash = crypto.createHash('sha256').update(email.trim().toLowerCase()).digest('hex');
+  return `usr-${hash.slice(0, 24)}`;
+}
 
 /**
  * POST /api/auth/send-otp
@@ -86,25 +96,46 @@ router.post(
     }
 
     const meta = result.metadata || {};
-    let userRole = meta.role || (cleanEmail.includes('admin') ? 'admin' : cleanEmail.includes('coach') ? 'coach' : 'client');
+    let userRole = meta.role || (cleanEmail.includes('admin') ? 'admin' : 'client');
     let userFullName = meta.fullName || cleanEmail.split('@')[0];
     let coachId = null;
 
-    // Check if user is an existing coach
+    // ── Step 1: Check if an existing profile already exists for this email ──────
+    // This is the idempotency gate: same email always gets the same account.
+    const existingProfile = await fetchProfileByEmail(cleanEmail);
+
+    // ── Step 2: Derive a stable, deterministic userId from email ─────────────────
+    // Using sha256(email) means the same email ALWAYS produces the same userId.
+    // Previously used `usr-${Date.now()}` which created a NEW id on every verify.
+    const userId = existingProfile?.id || deriveUserId(cleanEmail);
+
+    if (existingProfile) {
+      // Respect the stored role / name so returning users don't get downgraded
+      userRole = existingProfile.role || userRole;
+      userFullName = existingProfile.full_name || userFullName;
+    }
+
+    // ── Step 3: Check if user is a registered coach ──────────────────────────────
     const coaches = (await fetchCoachesFromSupabase()) || [];
     const matchedCoach = coaches.find(
       (c) =>
-        (c.slug && cleanEmail.includes(c.slug)) ||
-        (c.name && cleanEmail.includes(c.name.toLowerCase().replace(/\s+/g, '')))
+        (c.email && c.email.toLowerCase() === cleanEmail) ||
+        (c.userId && c.userId === userId)
     );
 
     if (matchedCoach) {
       userRole = 'coach';
-      userFullName = matchedCoach.name;
+      userFullName = matchedCoach.name || userFullName;
       coachId = matchedCoach.id;
     }
 
-    const userId = matchedCoach ? (matchedCoach.userId || matchedCoach.id) : `usr-${Date.now()}`;
+    // ── Step 4: Persist / update profile (upsert on email = idempotent) ──────────
+    await upsertProfileToSupabase({
+      id: userId,
+      email: cleanEmail,
+      full_name: userFullName,
+      role: userRole,
+    });
 
     // Payload for JWT
     const tokenPayload = {
@@ -113,7 +144,7 @@ router.post(
       role: userRole,
       fullName: userFullName,
       phone: meta.phone || matchedCoach?.phone || '',
-      avatarUrl: matchedCoach?.photoUrl || '',
+      avatarUrl: matchedCoach?.photoUrl || existingProfile?.avatar_url || '',
       coachId: coachId || undefined,
     };
 
